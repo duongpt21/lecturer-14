@@ -1,0 +1,6 @@
+train: "dataset/helmet_violation_dataset/final_helmet_violation_dataset/images/train"
+val: "dataset/helmet_violation_dataset/final_helmet_violation_dataset/images/val"
+test: "dataset/helmet_violation_dataset/final_helmet_violation_dataset/images/test"
+
+nc: 2
+names: ["With Helmet", "Without Helmet"]
